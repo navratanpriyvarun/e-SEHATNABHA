@@ -23,8 +23,7 @@
 >
 > **This project is being rebuilt and significantly upgraded from its original version. Several modules listed below are in active development.**
 >
-> Originally submitted to **Smart India Hackathon (SIH) 2025** — was not selected as the initial build was basic. Rather than abandoning it, I'm  rebuilding it into a more complete, production-grade system with my team.
->
+
 > ⚠️ Do not deploy for real healthcare use. Educational / portfolio project only.
 
 ---
@@ -207,10 +206,7 @@ This project was submitted to **SIH 2025** as a basic prototype, which was **not
 
 ---
 
-## 👨‍💻 Author
 
-**Kartikey Kumar Tripathi**  
-B.Tech CSE — BBDNIIT, Lucknow (2026 Batch)
 
 ---
 
